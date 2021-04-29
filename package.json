@@ -10,9 +10,10 @@
     "dist"
   ],
   "author": "Matt Condon (shrugs) <mattgcondon@gmail.com>",
+  "homepage": "https://github.com/xlnt/caip#readme",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xlnt/caip.git"
   },
   "license": "Apache-2.0",
   "engines": {
